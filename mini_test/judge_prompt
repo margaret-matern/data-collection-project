@@ -1,0 +1,24 @@
+cat > mini_test/judge_prompt.md << 'EOF'
+You are grading a candidate’s answer using ONLY the provided evidence from an SEC filing.
+
+[QUESTION]
+What percentage of revenue came from customers outside the United States in the second quarter of fiscal year 2026?
+
+[ANSWER]
+{answer_text}
+
+[EVIDENCE]
+Section/Note: {section_title}
+Quote (≤30 words): "{quote}"
+Page: {page}
+URL: {url}
+
+Return JSON ONLY with integer scores 1–5 and a short reason:
+{
+  "factuality": X,
+  "citation": Y,
+  "clarity": Z,
+  "safety": 5,
+  "reason": "one short sentence"
+}
+EOF

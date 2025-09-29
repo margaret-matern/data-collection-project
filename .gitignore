@@ -1,0 +1,8 @@
+cat > .gitignore << 'EOF'
+__pycache__/
+*.pyc
+.env
+secrets.*
+submissions.jsonl
+results.jsonl
+EOF

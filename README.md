@@ -9,4 +9,4 @@ plus a grading script that auto-scores MCQs and uses an LLM-as-Judge for Q5.
 python grader/grade.py grader/schema_examples/submissions.jsonl grader/schema_examples/results.jsonl
 
 See `docs/methodology.md` for pass criteria and rubric.
-EOF
+

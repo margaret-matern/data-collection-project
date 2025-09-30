@@ -2,8 +2,8 @@
 
 ## Directions
 Use **only** these two filings:
-- Intel Corporation Form 10-Q (quarter ended **June 28, 2025**)
-- Qualcomm Incorporated Form 10-Q (quarter ended **June 29, 2025**)
+- Intel Corporation Form 10-Q (quarter ended **June 28, 2025**) https://www.sec.gov/ix?doc=/Archives/edgar/data/0000050863/000005086325000109/intc-20250628.htm
+- Qualcomm Incorporated Form 10-Q (quarter ended **June 29, 2025**) https://www.sec.gov/ix?doc=/Archives/edgar/data/0000804328/000080432825000045/qcom-20250629.htm
 
 Answer each question **from the filings**. For **Q5–Q8**, include a **precise citation** with:
 - Section/Note name

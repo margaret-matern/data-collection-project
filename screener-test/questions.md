@@ -1,5 +1,4 @@
-cat > mini_test/questions.md << 'EOF'
-# Category A – Single-Document Mini-Test
+# Screener Test
 Source: NVIDIA Corporation Form 10-Q (quarter ended July 27, 2025)
 
 **Worker Directions**
@@ -33,8 +32,8 @@ B) 53-week years every year; Q2 length varies
 C) 52-week years ending on the last Sunday in January; Q2 is a 13-week quarter
 D) 48-week years; Q2 is a 12-week quarter
 
-## Q5 (Short answer — LLM-as-Judge)
+## Q5 (Short answer)
 What percentage of revenue came from customers outside the United States in the second quarter of fiscal year 2026?
 - Answer: <one number with “%”>
 - Citation (required): Section/Note + ≤30-word quote + page # + EDGAR URL
-EOF
+

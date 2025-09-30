@@ -67,5 +67,27 @@ State whether each company **paid cash dividends** during the reported period (p
 
 ## Submission Format (CSV headers)
 Create a CSV named `advanced_responses.csv` with the following columns:
+worker_id,
+q1,q2,q3,q4,q6,
+q5_answer,q5_section,q5_page,q5_quote,q5_url,
+q7_answer,q7_section,q7_page,q7_quote,q7_url,
+q8_answer,
+q8_section_intc,q8_page_intc,q8_quote_intc,q8_url_intc,
+q8_section_qcom,q8_page_qcom,q8_quote_qcom,q8_url_qcom,
+q5_review,q7_review,q8_review,
+notes
+
+
+**Field rules**
+- **MCQs (q1,q2,q3,q4,q6):** enter a single letter `A|B|C|D`.  
+- **Short answers (q5_answer, q7_answer, q8_answer):** ≤2 sentences, paraphrased; if not present, write **Exactly**: `Not disclosed in this filing.`  
+- **Citations:** every short answer must include the citation fields shown above; `q8_*` requires one **INTC** and one **QCOM** citation.  
+  - `q*_section`: section or note name (e.g., `MD&A – Liquidity` or `Note 7: Debt`).  
+  - `q*_page`: numeric page.  
+  - `q*_quote`: ≤30 words containing the fact/number.  
+  - `q*_url`: canonical EDGAR link on `sec.gov`.  
+- **Reviewer labels** (`q5_review`, `q7_review`, `q8_review`): leave blank; for internal use (`PASS|FIX|REJECT`).  
+- **notes:** optional free-text (e.g., blockers, clarifications).
+
 
 

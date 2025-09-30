@@ -1,0 +1,50 @@
+# Declared weekly availability in hours for each labeler
+labelers:
+  - id: L1
+    name: "Labeler 1"
+    focus: [B, C]
+    hours_available: 12
+  - id: L2
+    name: "Labeler 2"
+    focus: [B, C]
+    hours_available: 15
+  - id: L3
+    name: "Labeler 3"
+    focus: [B, C]
+    hours_available: 10
+  - id: L4
+    name: "Labeler 4"
+    focus: [B, C]
+    hours_available: 14
+  - id: L5
+    name: "Labeler 5"
+    focus: [B, C]
+    hours_available: 8
+  - id: L6
+    name: "Labeler 6"
+    focus: [B, C]
+    hours_available: 16
+  - id: L7
+    name: "Labeler 7"
+    focus: [B, C]
+    hours_available: 9
+  - id: L8
+    name: "Labeler 8"
+    focus: [B, C]
+    hours_available: 11
+  - id: L9
+    name: "Labeler 9"
+    focus: [B, C]
+    hours_available: 13
+  - id: L10
+    name: "Labeler 10"
+    focus: [B, C]
+    hours_available: 10
+  - id: L11
+    name: "Labeler 11"
+    focus: [B, C]
+    hours_available: 12
+  - id: L12
+    name: "Labeler 12"
+    focus: [B, C]
+    hours_available: 9

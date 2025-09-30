@@ -1,5 +1,6 @@
 # Screener Test
 Source: NVIDIA Corporation Form 10-Q (quarter ended July 27, 2025)
+https://www.sec.gov/ix?doc=/Archives/edgar/data/0001045810/000104581025000209/nvda-20250727.htm
 
 **Worker Directions**
 Use only the NVDA 10-Q for the quarter ended July 27, 2025. Answer each question based solely on this filing. For Q5, include a precise citation: section (or note) + a ≤30-word quote + page # + EDGAR URL.

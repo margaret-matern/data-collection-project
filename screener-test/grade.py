@@ -1,4 +1,4 @@
-cat > grader/grade.py << 'EOF'
+
 import json, re, sys
 
 MCQ_KEY = {"q1": "B", "q2": "B", "q3": "C", "q4": "C"}
@@ -96,4 +96,4 @@ if __name__ == "__main__":
     in_path = sys.argv[1] if len(sys.argv) > 1 else "grader/schema_examples/submissions.jsonl"
     out_path = sys.argv[2] if len(sys.argv) > 2 else "grader/schema_examples/results.jsonl"
     main(in_path, out_path)
-EOF
+

@@ -1,0 +1,9 @@
+requests
+pydantic
+python-dateutil
+beautifulsoup4
+pdfkit
+pdfplumber
+openai
+pyyaml
+tiktoken

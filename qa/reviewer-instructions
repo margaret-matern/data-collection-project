@@ -1,0 +1,21 @@
+SME Reviewer Instructions:
+
+You are responsible for reviewing (a) all C-Extended items, (b) any item with reviewer disagreement or low Dawid-Skewe confidence, and (c) borderline REJECT/FIX items that might be salvaged.
+Use the following response criteria and rubric to provide a rating for each answer.
+Response Criteria:
+Factuality: The exact number/name/claim in answer is present in the quote(s).
+
+
+Citations: Each entry has a complete citation, including section/note, page #, ≤30-word quote, EDGAR URL (sec.gov).
+
+
+Clarity & policy: Answer is paraphrased from the source text, concise (≤2 sentences), does not contain PII, and does not contain opinions.
+Use the following rubric to provide a rating for each response.  Include your rating and a 1-2 line rationale for the rating.
+
+
+PASS — Response fulfills all criteria for factuality, citations, and clarity & policy. 
+FIX → PASS (SME Repair) — Minor edits you can make without changing the worker’s intent (e.g., add page #, trim quote to ≤30 words, fix EDGAR URL). Apply the fix and mark as PASS. Include in note what precisely was changed.
+RETURN FOR FIX — Clearly fixable by the respondent but needs their input (e.g., missing second citation for Category B/C prompts; wrong section referenced; calc absent for a derived claim). Add a precise fix note.
+REJECT — Response does not fulfill at least one of the criteria, e.g. wrong fact, citation sourced from wrong document, missing required citations, or policy violation (contains PII or opinions).
+
+

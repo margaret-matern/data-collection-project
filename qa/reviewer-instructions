@@ -1,0 +1,22 @@
+Reviewer Instructions:
+
+Use the following response criteria and rubric to provide a rating for each answer.
+
+Verify the answer to the given prompt strictly against the provided citations. Don’t browse outside the included EDGAR links. 
+
+Response Criteria:
+Factuality: The exact number/name/claim in answer is present in the quote(s).
+
+
+Citations: Each entry has a complete citation, including section/note, page number, ≤30-word quote, EDGAR URL (sec.gov).
+
+
+Clarity & policy: Answer is paraphrased from the source text, concise (≤2 sentences), does not contain PII, and does not contain opinions.
+Use the following rubric to provide a rating for each response.  Include your rating (PASS/FIX/REJECT), and a 1-2 line rationale for the rating.
+
+
+PASS — Response fulfills all criteria for factuality, citations, and clarity & policy. 
+FIX — Response fulfills all criteria, but contains minor issues fixable without redoing work (e.g., missing page #, quote >30 words, spelling/grammar mistakes in answer). Add a specific fix note.
+REJECT — Response does not fulfill at least one of the criteria, e.g. wrong fact, citation sourced from wrong document, missing required citations, or policy violation (contains PII or opinions).
+
+
